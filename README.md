@@ -1,1 +1,1 @@
-# sum_of_two_nos
+# This code adds sum of two numbers
