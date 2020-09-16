@@ -1,1 +1,1 @@
-# This code adds sum of two numbers
+# This code finds factorial of a number
